@@ -46,7 +46,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 1 : Développeur Python & Architecte API**")
 # Afficher l'image séparément
-st.image("https://raw.githubusercontent.com/gadeumarcy/films-analytics/main/streamlit_app/architecturephase.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/gadeumarcy/films-analytics/main/streamlit_app/architecture.png", use_container_width=True)
 
 st.markdown(
         """
