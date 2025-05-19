@@ -13,7 +13,7 @@ col1, col2, col3 = st.columns([1, 4, 1])
 # Colonne gauche : Image
 with col1:
     st.image(
-        https://github.com/gadeumarcy/films-analytics/blob/main/streamlit_app/profile.jpg",  # Remplacez par le chemin de votre image
+       "https://github.com/gadeumarcy/films-analytics/blob/main/streamlit_app/profile.jpg",  # Remplacez par le chemin de votre image
         width=80,     # Ajustez la taille si nécessaire
         use_container_width=False,
     )
