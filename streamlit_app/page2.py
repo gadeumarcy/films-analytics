@@ -12,7 +12,6 @@ st.title("🏷️ Tags Insights")
 
 # Chargement des datasets
 tag_df = load_parquet_data("user_tag_stats.parquet")
-st.write(tag_df)
 tags_good_rating_df = load_parquet_data("tags_good_rating.parquet")
 tags_compare_df = load_parquet_data("tags_compare.parquet")
 tags_by_genre_df = load_parquet_data("tags_by_genre.parquet")
